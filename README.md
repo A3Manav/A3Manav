@@ -14,15 +14,15 @@ I work with clients to develop **SaaS platforms, AI-integrated dashboards, e-com
 - 🎨 UI/UX implementation | Dashboard design | Reusable components
 
 **Backend**  
-- 🐍 Django | FastAPI | Node.js | Express  
+- 🐍 Django | FastAPI | Spring | Springboot | Node.js | Express  
 - 🧩 REST & GraphQL APIs | Authentication | WebSockets | Redis
 
 **Database & Infrastructure**  
 - 🛢️ PostgreSQL | MongoDB | MySQL | Firebase  
 - ☁️ AWS | Vercel | Render | Docker | CI/CD pipelines
 
-**CMS & E-commerce**  
-- 🛍️ WordPress | WooCommerce | Shopify custom apps & themes
+**CMS & E-commerce & LMS **  
+- 🛍️ WordPress | Moodle | Shopify custom apps & themes
 
 **AI & Automation**  
 - 🤖 OpenAI API | LangChain | Chatbot integration | Workflow automation
