@@ -83,6 +83,6 @@ I’m open to freelance projects and collaborations involving:
 - Shopify or WordPress integrations  
 - Full-stack or API-based web solutions  
 
-📩 **Reach me at:** (mailto:your.email@example.com)  
+📩 **Reach me at:** (mailto:manavpathania780@gmail.com)  
 🌍 **Portfolio:** [https://manavpathania.github.io](https://yourusername.github.io)  
 💼 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
