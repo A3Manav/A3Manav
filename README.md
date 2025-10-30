@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Manav Pathania
+# 👋 Hey, I'm Manav Pathania  
 
 🚀 **Full-Stack Developer | SaaS & AI-Integrated Web Apps**
 
@@ -7,58 +7,51 @@ I work with clients to develop **SaaS platforms, AI-integrated dashboards, e-com
 
 ---
 
-### 🧠 Tech Expertise
+## 🧠 Tech Expertise
 
 **Frontend**  
-- ⚛️ React.js | Next.js | Tailwind CSS | TypeScript  
-- 🎨 UI/UX implementation | Dashboard design | Reusable components
+- ⚛️ React.js · Next.js · Tailwind CSS · TypeScript  
+- 🎨 UI/UX implementation · Dashboard design · Reusable components  
 
 **Backend**  
-- 🐍 Django | FastAPI | Spring | Springboot | Node.js | Express  
-- 🧩 REST & GraphQL APIs | Authentication | WebSockets | Redis
+- 🐍 Django · FastAPI · Spring · Spring Boot · Node.js · Express  
+- 🧩 REST & GraphQL APIs · Authentication · WebSockets · Redis  
 
 **Database & Infrastructure**  
-- 🛢️ PostgreSQL | MongoDB | MySQL | Firebase  
-- ☁️ AWS | Vercel | Render | Docker | CI/CD pipelines
+- 🛢️ PostgreSQL · MongoDB · MySQL · Firebase  
+- ☁️ AWS · Vercel · Render · Docker · CI/CD pipelines  
 
-**CMS & E-commerce & LMS **  
-- 🛍️ WordPress | Moodle | Shopify custom apps & themes
+**CMS / E-commerce / LMS**  
+- 🛍️ WordPress · Moodle · Shopify custom apps & themes  
 
 **AI & Automation**  
-- 🤖 OpenAI API | LangChain | Chatbot integration | Workflow automation
+- 🤖 OpenAI API · LangChain · Chatbot integration · Workflow automation  
 
 ---
 
-### 💡 What I Build
+## 💡 What I Build
 
-| Type | Description | Example |
-|------|-------------|---------|
-| 🌐 **SaaS Dashboards** | Subscription-based SaaS apps with authentication, billing, and analytics | e.g., CRM, Task Manager |
-| 🤖 **AI-Integrated Tools** | Chatbot apps, AI content tools, summarizers | e.g., GPT-powered writer |
-| 🛍️ **E-Commerce Stores** | Shopify & custom React storefronts | e.g., Product analytics dashboard |
-| 🧱 **Full-Stack Apps** | MERN or Django+React apps with APIs and cloud hosting | e.g., Inventory, ERP |
+| Project | Description | Tech Stack & Highlights |
+|----------|--------------|--------------------------|
+| 🧑‍💼 **Portfolio Website for Politician** | A modern personal website showcasing a political journey, initiatives, and achievements — optimized for performance and SEO. | **MERN Stack**, Tailwind CSS, Framer Motion, Cloudinary, **Vercel (Deployment)**, **PWA Support** |
+| 💍 **Jewellery Shopping Website** | Full-featured e-commerce platform with secure login, SEO, and rich UI for jewellery shopping. | **MERN Stack**, Google OAuth, JWT Auth, Tailwind CSS, Framer Motion, Cloudinary, **Vercel**, **PWA** |
+| 📚 **Learning & Resource Management System (LRMS)** | Centralized system for managing learning materials, courses, and users with RBAC. | **MERN Stack**, JWT, **RBAC**, Tailwind CSS, Hostinger Cloud Services |
+| 🎓 **KalawatiPutra Edu (Ed-Tech Platform)** | Scalable Ed-Tech platform with authentication, course modules, and CI/CD. | **MERN Stack**, JWT & Google Auth, Cloudinary, **Vercel**, **Hostinger Cloud**, **GitHub Actions**, SEO Optimization |
 
 ---
 
-### 🧑‍💻 Featured Projects
+## 🧑‍💻 Featured Open-Source Projects
 
 | Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**SaaSify AI**](https://github.com/yourusername/saasify-ai) | AI-integrated SaaS boilerplate with user auth, Stripe billing, and dashboard | Next.js, FastAPI, PostgreSQL |
-| [**Shopify Custom App**](https://github.com/yourusername/shopify-app) | Shopify app for automated inventory syncing | Node.js, MongoDB |
-| [**MERN Task Manager**](https://github.com/yourusername/mern-task-manager) | Full-stack task management system with JWT auth | React, Node.js, Express, MongoDB |
-| [**WordPress API Connector**](https://github.com/yourusername/wp-fastapi-connector) | WordPress plugin integrating FastAPI backend | FastAPI, WP REST API |
+|----------|--------------|------------|
+| [**SaaSify AI**](https://github.com/yourusername/saasify-ai) | AI-integrated SaaS boilerplate with user auth, Stripe billing, and dashboard. | Next.js · FastAPI · PostgreSQL |
+| [**Shopify Custom App**](https://github.com/yourusername/shopify-app) | Shopify app for automated inventory syncing. | Node.js · MongoDB |
+| [**MERN Task Manager**](https://github.com/yourusername/mern-task-manager) | Task management system with JWT authentication. | React · Node.js · Express · MongoDB |
+| [**WordPress API Connector**](https://github.com/yourusername/wp-fastapi-connector) | WordPress plugin integrating FastAPI backend. | FastAPI · WP REST API |
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
----
-
-### 🧩 Tech Stack Badges
+## 🧩 Tech Stack Badges
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
@@ -74,15 +67,15 @@ I work with clients to develop **SaaS platforms, AI-integrated dashboards, e-com
 
 ---
 
-### 🤝 Let’s Collaborate
+## 🤝 Let’s Collaborate
 
 I’m open to freelance projects and collaborations involving:
 
-- SaaS applications  
-- AI-based platforms  
-- Shopify or WordPress integrations  
-- Full-stack or API-based web solutions  
+- SaaS Applications  
+- AI-based Platforms  
+- Shopify or WordPress Integrations  
+- Full-Stack or API-based Web Solutions  
 
-📩 **Reach me at:** (mailto:manavpathania780@gmail.com)  
+📩 **Email:** [manavpathania780@gmail.com](mailto:manavpathania780@gmail.com)  
 🌍 **Portfolio:** [https://manavpathania.github.io](https://yourusername.github.io)  
 💼 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
